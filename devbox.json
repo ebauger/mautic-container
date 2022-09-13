@@ -1,0 +1,15 @@
+{
+  "packages": [
+    "php",
+    "php80Extensions.mbstring",
+    "php80Extensions.xml",
+    "php80Extensions.ctype",
+    "php80Extensions.iconv",
+    "php80Extensions.intl",
+    "php80Extensions.pdo_sqlite",
+    "php80Extensions.mysqli",
+    "php80Extensions.pdo_mysql",
+    "php80Packages.composer",
+    "git"
+  ]
+}
